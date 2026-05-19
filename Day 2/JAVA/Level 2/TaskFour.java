@@ -10,7 +10,4 @@ public class TaskFour
        
              int number = input.nextInt();
 
-             System.out.print("Largest " + large);
-             }
              
-             }

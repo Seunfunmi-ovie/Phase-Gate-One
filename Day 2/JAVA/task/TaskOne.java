@@ -1,0 +1,35 @@
+public class TaskOne{
+public static void main(String[] args){
+
+
+}
+        public static int getPrime(int [] numbers){
+        int length = int new numbers
+            for(int count = 0; length -1;count++){
+            int smallest = count;
+            for(int row = count + 1; row < length; row++){
+            if(numbers[count] < numbers[smallest]){
+            smallest = row;
+            }
+            }
+            
+          
+            int temp = numbers[count];
+            numbers[count] = numbers[smallest];
+            numbers[smallest] = temp;
+            }
+           int prime = new int[1];
+           if(number[count] % 2 != 0){
+           
+           }
+            return prime;
+            }
+}
+public static int[] replaceNegative(int [] numbers){
+for(int count = 0; count < numbers.length; count++){
+if(numbers[count] < 0){
+number[count] = 0;
+
+}
+}
+}
