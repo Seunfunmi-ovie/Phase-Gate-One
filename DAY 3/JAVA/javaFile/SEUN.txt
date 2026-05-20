@@ -1,0 +1,26 @@
+THIS IS TO RUN THE CODE 
+
+java -jar junit-platform-console-standalone-1.10.0.jar --class-path . --select-class OshoFreePromoEngineTest
+
+
+
+
+THIS IS TO COMPILE THE CODE
+
+javac -cp .:junit-platform-console-standalone-1.10.0.jar OshoFreePromoEngineTest.java
+
+
+
+
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+public class  void 
+    
+    
+    
+    
+    from unittest import TestCase
+import prime
+class TestValidatePrime(TestCase):
